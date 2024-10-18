@@ -1,0 +1,892 @@
+[
+  {
+    "bookId": "e1c34f7a-9160-42da-b5a8-b11ad423d416",
+    "title": "Stand-alone mobile capability",
+    "author": "Madison Miles MD",
+    "publicationYear": 1941,
+    "genre": "Non-Fiction",
+    "rating": 5.56,
+    "reviews": [
+      {
+        "reviewId": "8a444855-ddd5-4dc0-8c4c-7e5a302637f0",
+        "reviewerName": "Brenda Aguirre",
+        "rating": 2.4,
+        "date": "2020-06-14"
+      },
+      {
+        "reviewId": "382859a3-9812-4969-8843-da2be8966079",
+        "reviewerName": "Christopher Jordan",
+        "rating": 8.5,
+        "date": "2021-05-01"
+      },
+      {
+        "reviewId": "bc6e1a83-d677-49f9-b409-4b7b8df1f7d3",
+        "reviewerName": "Jimmy Smith",
+        "rating": 2.2,
+        "date": "2021-01-11"
+      },
+      {
+        "reviewId": "a7923f53-79f2-476b-99b9-ae9e4801ef52",
+        "reviewerName": "Mary Vazquez",
+        "rating": 7.6,
+        "date": "2022-01-19"
+      },
+      {
+        "reviewId": "4a5b5504-bbba-4bb9-9b05-78fc4840a88d",
+        "reviewerName": "David Robles",
+        "rating": 6,
+        "date": "2021-06-09"
+      },
+      {
+        "reviewId": "0d7dcfcd-009a-41d4-b724-b4a1303862af",
+        "reviewerName": "Benjamin Russell",
+        "rating": 5.5,
+        "date": "2020-03-29"
+      },
+      {
+        "reviewId": "7196b29d-c83c-4491-a10d-ac5878ad1a0d",
+        "reviewerName": "Linda Brown",
+        "rating": 6.7,
+        "date": "2021-10-26"
+      }
+    ]
+  },
+  {
+    "bookId": "fce0ebcc-9ee6-468c-b15f-f8453fb565eb",
+    "title": "Future-proofed global capability",
+    "author": "Michael Cox",
+    "publicationYear": 1923,
+    "genre": "Fiction",
+    "rating": 5.65,
+    "reviews": [
+      {
+        "reviewId": "479d72bf-874a-49e8-a19a-47d3057bb001",
+        "reviewerName": "Donna Murphy",
+        "rating": 4.7,
+        "date": "2023-03-30"
+      },
+      {
+        "reviewId": "c49b1e61-ca4e-45df-9fae-c9d7fb636694",
+        "reviewerName": "Marie Duran",
+        "rating": 6.6,
+        "date": "2023-04-29"
+      }
+    ]
+  },
+  {
+    "bookId": "772a1e22-4f6b-4e72-894f-9c1f7635048c",
+    "title": "Operative clear-thinking productivity",
+    "author": "Joseph Vargas",
+    "publicationYear": 1895,
+    "genre": "Science Fiction",
+    "rating": 4.58,
+    "reviews": [
+      {
+        "reviewId": "6a5ce0b6-7eb5-4da8-919e-e3bd33efe571",
+        "reviewerName": "Holly Rasmussen MD",
+        "rating": 5.9,
+        "date": "2022-12-04"
+      },
+      {
+        "reviewId": "c0ed53d7-ab01-42ab-b11c-e9244f6359c4",
+        "reviewerName": "Ms. Tiffany Spencer MD",
+        "rating": 4.7,
+        "date": "2022-03-26"
+      },
+      {
+        "reviewId": "e49b9ae7-3224-4443-82ec-eabaca3c1fbf",
+        "reviewerName": "Dylan Hamilton",
+        "rating": 2.3,
+        "date": "2024-01-25"
+      },
+      {
+        "reviewId": "54ede9dd-932c-40ea-b077-e6292968c087",
+        "reviewerName": "Michael Goodman",
+        "rating": 4.3,
+        "date": "2020-08-27"
+      },
+      {
+        "reviewId": "978cbadd-7833-4221-99d4-d8dc2b48abf4",
+        "reviewerName": "Debra Green",
+        "rating": 2.1,
+        "date": "2020-11-25"
+      },
+      {
+        "reviewId": "532f0711-8b10-465a-9a27-7f94e9c3d0c7",
+        "reviewerName": "Ashlee Bradley",
+        "rating": 5.5,
+        "date": "2020-03-23"
+      },
+      {
+        "reviewId": "58232584-7aaf-4c72-bafa-338d3e4e8883",
+        "reviewerName": "Jasmine Mccormick",
+        "rating": 5.5,
+        "date": "2021-07-22"
+      },
+      {
+        "reviewId": "26dc5e01-e23a-43e7-9c27-c9f02ad11afa",
+        "reviewerName": "Tiffany Gibson",
+        "rating": 6.3,
+        "date": "2020-01-29"
+      }
+    ]
+  },
+  {
+    "bookId": "58951686-9bfa-4b88-9f4b-0099e20a629e",
+    "title": "Profound upward-trending neural-net",
+    "author": "Marcus Reyes",
+    "publicationYear": 1904,
+    "genre": "Non-Fiction",
+    "rating": 4.771428571428572,
+    "reviews": [
+      {
+        "reviewId": "f14ad066-9ab2-43e9-bbee-3a0d00869311",
+        "reviewerName": "Joseph Hess",
+        "rating": 8.1,
+        "date": "2022-09-24"
+      },
+      {
+        "reviewId": "0505de38-4bbe-4a84-a204-3d09def3c186",
+        "reviewerName": "Timothy Perry",
+        "rating": 6,
+        "date": "2022-02-06"
+      },
+      {
+        "reviewId": "b59665b3-1ce8-4697-b520-6b231209da22",
+        "reviewerName": "Travis Clark",
+        "rating": 1.9,
+        "date": "2022-12-08"
+      },
+      {
+        "reviewId": "dbb9b607-8835-4cfc-ad94-8e814e3aa53d",
+        "reviewerName": "Olivia Miller",
+        "rating": 1.5,
+        "date": "2023-12-07"
+      },
+      {
+        "reviewId": "5899f72a-ec94-42e8-8455-fec2de0fe665",
+        "reviewerName": "Angela Snyder",
+        "rating": 3.2,
+        "date": "2023-02-13"
+      },
+      {
+        "reviewId": "44242d0f-07fe-4ba1-8c82-a3c0d2b30dbd",
+        "reviewerName": "Matthew Taylor",
+        "rating": 4.4,
+        "date": "2021-03-15"
+      },
+      {
+        "reviewId": "544ea7b3-991c-4112-9220-fda11b2e373e",
+        "reviewerName": "Tracey Norton",
+        "rating": 8.3,
+        "date": "2021-07-10"
+      }
+    ]
+  },
+  {
+    "bookId": "c4b935f6-8cff-4160-b25b-beeb064f5eb6",
+    "title": "Multi-tiered transitional portal",
+    "author": "Raven Gardner",
+    "publicationYear": 1939,
+    "genre": "Mystery",
+    "rating": 6.57,
+    "reviews": [
+      {
+        "reviewId": "dff4bc7c-23fe-43f1-aa44-8d714fd86e41",
+        "reviewerName": "Dan Daniels",
+        "rating": 8.4,
+        "date": "2020-08-21"
+      },
+      {
+        "reviewId": "56adc327-0dfa-4f8b-9a13-4a4d25f11cf8",
+        "reviewerName": "Earl Huffman",
+        "rating": 8.5,
+        "date": "2023-09-26"
+      },
+      {
+        "reviewId": "826099b6-0a4a-4272-bb42-1ee8f94a059b",
+        "reviewerName": "Jerry Taylor",
+        "rating": 9.7,
+        "date": "2022-06-14"
+      },
+      {
+        "reviewId": "f184ee4f-ca81-4e80-a634-24995f05e4c2",
+        "reviewerName": "Denise Smith",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "reviewId": "e0965148-3b02-44af-a16f-48a644eff51a",
+        "reviewerName": "Ryan Perry",
+        "rating": 3.7,
+        "date": "2020-09-16"
+      },
+      {
+        "reviewId": "ecacc0d1-d119-41ce-b8ba-4d139999a7e9",
+        "reviewerName": "Matthew Lewis",
+        "rating": 9.5,
+        "date": "2023-06-30"
+      },
+      {
+        "reviewId": "ba886bdf-7b8d-44d1-a0f0-3c516760f22d",
+        "reviewerName": "Michelle Nichols",
+        "rating": 5.2,
+        "date": "2023-04-26"
+      },
+      {
+        "reviewId": "118f7afb-9d00-4867-8cfe-a7256b00e1f8",
+        "reviewerName": "Alexander Gomez",
+        "rating": 6.4,
+        "date": "2022-04-16"
+      },
+      {
+        "reviewId": "cc5c8912-5001-4b27-9384-79a779e322a7",
+        "reviewerName": "Brandon Pennington",
+        "rating": 3.3,
+        "date": "2023-01-26"
+      },
+      {
+        "reviewId": "fd8fca0c-15b8-4e30-b9b1-19e0f6524aa6",
+        "reviewerName": "Candice Schroeder",
+        "rating": 6,
+        "date": "2022-02-16"
+      }
+    ]
+  },
+  {
+    "bookId": "175c4137-bea2-4609-9f34-14e8c6f2d68b",
+    "title": "Team-oriented analyzing structure",
+    "author": "James Cook",
+    "publicationYear": 1921,
+    "genre": "Mystery",
+    "rating": 7.966666666666666,
+    "reviews": [
+      {
+        "reviewId": "1f4078f4-bea4-4926-9e49-c7c897e2014c",
+        "reviewerName": "Melanie Garza",
+        "rating": 8,
+        "date": "2022-04-25"
+      },
+      {
+        "reviewId": "926c10d7-cc94-4c25-a98b-27cf68c05f83",
+        "reviewerName": "Linda Holmes",
+        "rating": 7.7,
+        "date": "2023-04-11"
+      },
+      {
+        "reviewId": "6e727538-df03-446e-a132-7e41314239f8",
+        "reviewerName": "Frank Brown",
+        "rating": 8.2,
+        "date": "2021-01-27"
+      }
+    ]
+  },
+  {
+    "bookId": "d14b17c0-bdf4-492a-aea2-22e5175d274f",
+    "title": "Automated next generation infrastructure",
+    "author": "Daniel Graham",
+    "publicationYear": 1943,
+    "genre": "Non-Fiction",
+    "rating": 8.33,
+    "reviews": [
+      {
+        "reviewId": "bf399715-3e1d-4107-bb18-c474f46d003e",
+        "reviewerName": "Brandon Mitchell",
+        "rating": 9.4,
+        "date": "2022-12-16"
+      },
+      {
+        "reviewId": "6de48a68-df61-4b55-99b4-e825173597b6",
+        "reviewerName": "Erin Sweeney",
+        "rating": 8.5,
+        "date": "2022-04-27"
+      },
+      {
+        "reviewId": "33e81607-d4cf-4cdf-9a37-ee5b6b4e61f7",
+        "reviewerName": "Brian Brady",
+        "rating": 9.7,
+        "date": "2023-06-13"
+      },
+      {
+        "reviewId": "0d9417a5-4802-4d20-a359-f710791456d2",
+        "reviewerName": "Megan Griffin",
+        "rating": 6,
+        "date": "2020-07-09"
+      },
+      {
+        "reviewId": "edc394eb-f3ab-4430-a36d-f1e4a9afce64",
+        "reviewerName": "Monique Garner",
+        "rating": 9.7,
+        "date": "2023-08-18"
+      },
+      {
+        "reviewId": "e6da0e70-7076-4026-88b0-0324a3af893e",
+        "reviewerName": "Ashlee Rodriguez",
+        "rating": 5.6,
+        "date": "2020-09-29"
+      },
+      {
+        "reviewId": "56aa7d15-edeb-4b9e-a7c3-fe0e0f5ce436",
+        "reviewerName": "Brian Myers",
+        "rating": 9.4,
+        "date": "2022-06-18"
+      }
+    ]
+  },
+  {
+    "bookId": "71e4a417-96a6-4ea5-b6f4-729352a1b88e",
+    "title": "Organic system-worthy interface",
+    "author": "Tracy Cruz MD",
+    "publicationYear": 1938,
+    "genre": "Fiction",
+    "rating": 5.93,
+    "reviews": [
+      {
+        "reviewId": "add18a89-491c-443f-a217-457dbd3a581c",
+        "reviewerName": "Jerry Hernandez",
+        "rating": 6.6,
+        "date": "2021-09-04"
+      },
+      {
+        "reviewId": "96bb4733-04d9-47e7-9c92-9a420440bf88",
+        "reviewerName": "Sabrina Brown",
+        "rating": 6.2,
+        "date": "2020-03-25"
+      },
+      {
+        "reviewId": "07d610ab-86e6-4aec-b1b0-149f28656857",
+        "reviewerName": "Gregory Torres",
+        "rating": 4.7,
+        "date": "2023-12-14"
+      },
+      {
+        "reviewId": "d191c849-16a4-445d-a37a-6a885b36a9e7",
+        "reviewerName": "Timothy Cook",
+        "rating": 7.2,
+        "date": "2023-09-15"
+      },
+      {
+        "reviewId": "77556c69-6395-46b7-ba88-6e362f01ea10",
+        "reviewerName": "Jessica Garcia",
+        "rating": 8.9,
+        "date": "2023-10-07"
+      },
+      {
+        "reviewId": "cd01dba0-2adc-4910-9eb3-108b4812637e",
+        "reviewerName": "William Hartman",
+        "rating": 4.6,
+        "date": "2020-01-22"
+      },
+      {
+        "reviewId": "2395e9c2-d503-4b66-9330-a3a5a32c5547",
+        "reviewerName": "Kim Tucker",
+        "rating": 7.9,
+        "date": "2020-04-24"
+      },
+      {
+        "reviewId": "69e89065-8c36-47c7-9990-c73b0ddc4182",
+        "reviewerName": "Alexander Nolan",
+        "rating": 2.8,
+        "date": "2023-01-01"
+      },
+      {
+        "reviewId": "8cbb967f-2c86-48e7-aad6-3e3155d1e92a",
+        "reviewerName": "Jorge Chase",
+        "rating": 4.5,
+        "date": "2022-07-15"
+      }
+    ]
+  },
+  {
+    "bookId": "e448910e-74f9-450c-a966-8ec4988c41af",
+    "title": "Adaptive mobile function",
+    "author": "Rebecca Cohen",
+    "publicationYear": 1987,
+    "genre": "Fiction",
+    "rating": 4.67,
+    "reviews": [
+      {
+        "reviewId": "13173798-efd1-450d-a061-8dba35eba6a2",
+        "reviewerName": "Jennifer Sullivan",
+        "rating": 8.4,
+        "date": "2021-11-27"
+      },
+      {
+        "reviewId": "828ffdaa-ebdd-406f-bcb2-234ab6f00c67",
+        "reviewerName": "Robert Mcfarland",
+        "rating": 1.1,
+        "date": "2021-02-18"
+      },
+      {
+        "reviewId": "2ec2cec4-d03a-4493-9a44-8ecd7122ca51",
+        "reviewerName": "Kimberly Wong",
+        "rating": 1.5,
+        "date": "2023-03-27"
+      },
+      {
+        "reviewId": "6306565c-21d3-4953-866e-8672e950b949",
+        "reviewerName": "Susan Young",
+        "rating": 7.7,
+        "date": "2023-02-27"
+      }
+    ]
+  },
+  {
+    "bookId": "b7dd0577-b882-4e3d-9197-7bd523cb8882",
+    "title": "Secured intermediate open system",
+    "author": "Nancy Gomez",
+    "publicationYear": 1972,
+    "genre": "Science Fiction",
+    "rating": 4.15,
+    "reviews": [
+      {
+        "reviewId": "b78fb3d1-1d9d-4bdc-8759-c599335676f5",
+        "reviewerName": "Gregory King",
+        "rating": 2.9,
+        "date": "2021-02-12"
+      },
+      {
+        "reviewId": "46129c7e-8671-440d-b391-e8698dcf1a3c",
+        "reviewerName": "Joseph Crawford",
+        "rating": 5.4,
+        "date": "2021-10-14"
+      }
+    ]
+  },
+  {
+    "bookId": "f81e71ab-a90c-4886-b001-ad7cf8e7bfb4",
+    "title": "Synergized 24/7 emulation",
+    "author": "Tammy Willis",
+    "publicationYear": 1919,
+    "genre": "Science Fiction",
+    "rating": 5.25,
+    "reviews": [
+      {
+        "reviewId": "3b922986-f5c5-44cb-86d5-0cc3e6da40f9",
+        "reviewerName": "Nicole Harris",
+        "rating": 8.1,
+        "date": "2023-06-12"
+      },
+      {
+        "reviewId": "c0d07ef5-e67d-42b5-ae94-a7df35cfac5b",
+        "reviewerName": "Amanda Sullivan PhD",
+        "rating": 2.4,
+        "date": "2021-05-10"
+      }
+    ]
+  },
+  {
+    "bookId": "391091ea-3922-4748-987b-b42d34c23e6b",
+    "title": "Fundamental even-keeled utilization",
+    "author": "Krystal Holmes",
+    "publicationYear": 1918,
+    "genre": "Science Fiction",
+    "rating": 6,
+    "reviews": [
+      {
+        "reviewId": "13be1c16-0b69-4791-bc14-884031938885",
+        "reviewerName": "Chris Johnson",
+        "rating": 4.3,
+        "date": "2023-07-18"
+      },
+      {
+        "reviewId": "dbfb6914-ac63-469c-9eeb-8215007d264d",
+        "reviewerName": "Stacie James",
+        "rating": 9.3,
+        "date": "2022-06-24"
+      },
+      {
+        "reviewId": "11a3ba77-aacc-4e55-88ff-2f493ad8f4d4",
+        "reviewerName": "Brandi Boyer",
+        "rating": 4.4,
+        "date": "2023-05-09"
+      }
+    ]
+  },
+  {
+    "bookId": "b4c80eab-7220-4ac9-a94e-bf4a227eaece",
+    "title": "Implemented neutral neural-net",
+    "author": "Kenneth Adkins",
+    "publicationYear": 1860,
+    "genre": "Non-Fiction",
+    "rating": 5.89,
+    "reviews": [
+      {
+        "reviewId": "3db77887-b197-40c7-9476-98acbf403a2e",
+        "reviewerName": "Rita Smith",
+        "rating": 7.6,
+        "date": "2022-01-13"
+      },
+      {
+        "reviewId": "307ab7af-bf30-433c-bb9c-67de955807c8",
+        "reviewerName": "Timothy Simmons",
+        "rating": 3.8,
+        "date": "2022-05-28"
+      },
+      {
+        "reviewId": "91760fd8-9215-44f5-b198-1b8e09498c41",
+        "reviewerName": "Cindy Johns",
+        "rating": 6.5,
+        "date": "2023-02-28"
+      },
+      {
+        "reviewId": "78af5c25-f47e-48e0-859e-3dbacb5822b7",
+        "reviewerName": "Dawn Sims",
+        "rating": 7,
+        "date": "2020-03-29"
+      },
+      {
+        "reviewId": "042c6dce-19bf-4a85-9ee5-f6771e48d7f9",
+        "reviewerName": "Peggy Burton",
+        "rating": 5.2,
+        "date": "2023-04-10"
+      },
+      {
+        "reviewId": "e6c23811-7d28-49d7-8a2c-b0b94dfbfbd4",
+        "reviewerName": "Michelle Lee",
+        "rating": 6.7,
+        "date": "2020-12-24"
+      },
+      {
+        "reviewId": "69c21f7d-3109-4547-a1d7-58dbfa64a72e",
+        "reviewerName": "Megan Cooper",
+        "rating": 4.4,
+        "date": "2021-06-28"
+      }
+    ]
+  },
+  {
+    "bookId": "de2d5206-3056-4a09-b18d-4b3cad593f9f",
+    "title": "Adaptive local knowledge user",
+    "author": "Olivia Cortez",
+    "publicationYear": 1943,
+    "genre": "Non-Fiction",
+    "rating": 6.66,
+    "reviews": [
+      {
+        "reviewId": "adbf0421-f332-4045-bd0b-6f105ea6ea41",
+        "reviewerName": "Oscar Rodriguez",
+        "rating": 6.5,
+        "date": "2023-06-28"
+      },
+      {
+        "reviewId": "ed0d6b87-75a8-449e-b12e-fa19f2bbcb0c",
+        "reviewerName": "Karen Hall",
+        "rating": 4.2,
+        "date": "2024-02-03"
+      },
+      {
+        "reviewId": "aedd0566-cf78-4633-bb20-131644f63e28",
+        "reviewerName": "Terry Gardner",
+        "rating": 8.7,
+        "date": "2020-07-05"
+      },
+      {
+        "reviewId": "77f35b16-25ad-4931-b9ac-cf30378510c1",
+        "reviewerName": "Anthony Francis",
+        "rating": 4,
+        "date": "2020-06-25"
+      },
+      {
+        "reviewId": "ccf81c09-d91b-41fd-94c3-3c7a35b990bf",
+        "reviewerName": "Mrs. Katie Lawrence",
+        "rating": 9.9,
+        "date": "2023-02-27"
+      }
+    ]
+  },
+  {
+    "bookId": "740bf639-3eb6-47db-bd9c-80feb290e2ea",
+    "title": "Decentralized interactive hierarchy",
+    "author": "Victor Hernandez",
+    "publicationYear": 1901,
+    "genre": "Fiction",
+    "rating": 6.65,
+    "reviews": [
+      {
+        "reviewId": "d8d2593b-dc1f-4839-97df-5cb2e448c056",
+        "reviewerName": "Kelsey Walton",
+        "rating": 9,
+        "date": "2022-06-20"
+      },
+      {
+        "reviewId": "26982c85-94d5-4329-8f28-ac90c7743332",
+        "reviewerName": "Brenda Clark",
+        "rating": 8.3,
+        "date": "2020-03-31"
+      },
+      {
+        "reviewId": "69f129b6-b89c-411e-b9b6-94f2ed87c0b0",
+        "reviewerName": "Sandra Black MD",
+        "rating": 2.6,
+        "date": "2020-02-10"
+      },
+      {
+        "reviewId": "09d75deb-5fce-48a5-ac63-8c77c77a987d",
+        "reviewerName": "Rebecca Arnold",
+        "rating": 3.4,
+        "date": "2021-02-17"
+      },
+      {
+        "reviewId": "9e55561d-4126-44bc-abbd-0413bcc75220",
+        "reviewerName": "Travis Elliott",
+        "rating": 6.8,
+        "date": "2021-08-03"
+      },
+      {
+        "reviewId": "39f9596c-7347-4b90-a67a-97545021c4a7",
+        "reviewerName": "Stacy Thomas",
+        "rating": 9.8,
+        "date": "2022-06-16"
+      }
+    ]
+  },
+  {
+    "bookId": "b7f27020-2beb-43a7-b012-04c884707b91",
+    "title": "Multi-layered optimizing extranet",
+    "author": "Connie Mercado",
+    "publicationYear": 1958,
+    "genre": "Non-Fiction",
+    "rating": 4.73,
+    "reviews": [
+      {
+        "reviewId": "7efeff09-72e4-48ef-b83a-75e7bc7d3442",
+        "reviewerName": "Patricia Frederick",
+        "rating": 3,
+        "date": "2020-01-18"
+      },
+      {
+        "reviewId": "016b70f6-acf1-4dda-af4f-6d442bc5ab53",
+        "reviewerName": "Maurice Pitts",
+        "rating": 7.3,
+        "date": "2021-12-02"
+      },
+      {
+        "reviewId": "b6d63959-9485-43a8-b6fc-5818544c97e6",
+        "reviewerName": "Terry Romero",
+        "rating": 4.5,
+        "date": "2020-05-21"
+      },
+      {
+        "reviewId": "038b036a-c443-41de-bc49-46d7f00cf5c4",
+        "reviewerName": "Jillian Thomas",
+        "rating": 7.6,
+        "date": "2020-01-08"
+      },
+      {
+        "reviewId": "66e1a1ad-58dd-477c-abe4-230d75923d5a",
+        "reviewerName": "Audrey Garcia",
+        "rating": 3.1,
+        "date": "2021-10-27"
+      },
+      {
+        "reviewId": "2117d561-416a-45cd-9648-cf2f0441cd6e",
+        "reviewerName": "Crystal Allen",
+        "rating": 2.9,
+        "date": "2020-10-08"
+      }
+    ]
+  },
+  {
+    "bookId": "2d6eb066-57ab-4d54-9439-d854622cd206",
+    "title": "Horizontal actuating artificial intelligence",
+    "author": "Jennifer Carter",
+    "publicationYear": 1949,
+    "genre": "Mystery",
+    "rating": 5.39,
+    "reviews": [
+      {
+        "reviewId": "5c03db35-08ae-45ff-80ef-9d56b657a899",
+        "reviewerName": "Lauren Baker",
+        "rating": 3.8,
+        "date": "2021-03-26"
+      },
+      {
+        "reviewId": "ad890b76-6c15-43bc-811d-f5e1a3aec3b4",
+        "reviewerName": "Alisha Meyer",
+        "rating": 7.6,
+        "date": "2021-09-25"
+      },
+      {
+        "reviewId": "dd9d5ca3-bf1b-4799-b052-10845cf2a43f",
+        "reviewerName": "David Shea",
+        "rating": 8.1,
+        "date": "2022-05-27"
+      },
+      {
+        "reviewId": "7aaa4e31-5cfd-4d34-bd88-c9c95b00e7df",
+        "reviewerName": "Melissa Long",
+        "rating": 2.2,
+        "date": "2023-02-13"
+      },
+      {
+        "reviewId": "f2ac947c-13ff-4a21-af2e-f5de791106bd",
+        "reviewerName": "Rebecca Craig",
+        "rating": 4.2,
+        "date": "2020-02-08"
+      },
+      {
+        "reviewId": "e6800fd7-497a-4ead-aca4-8b60fbe8e70a",
+        "reviewerName": "Douglas Decker",
+        "rating": 7.1,
+        "date": "2020-05-22"
+      },
+      {
+        "reviewId": "609f0a45-c619-4e5f-b9db-401548c1e872",
+        "reviewerName": "Kenneth Chapman",
+        "rating": 1.9,
+        "date": "2020-03-02"
+      },
+      {
+        "reviewId": "d0ed6940-9a02-41ef-ab10-7d80e6bb5b8d",
+        "reviewerName": "Hayley Pruitt",
+        "rating": 6.8,
+        "date": "2023-06-09"
+      },
+      {
+        "reviewId": "fa7b6cbe-3405-4346-a952-4408ef274769",
+        "reviewerName": "Larry Silva",
+        "rating": 8.1,
+        "date": "2022-06-18"
+      },
+      {
+        "reviewId": "0d825187-70ad-4ce8-ab70-5c58363a8f7f",
+        "reviewerName": "Justin Blevins",
+        "rating": 4.1,
+        "date": "2021-05-30"
+      }
+    ]
+  },
+  {
+    "bookId": "ddc0a4d6-8e93-440e-9c51-cb659d1b1b5e",
+    "title": "Adaptive actuating customer loyalty",
+    "author": "Billy Vargas",
+    "publicationYear": 1866,
+    "genre": "Science Fiction",
+    "rating": 5.33,
+    "reviews": [
+      {
+        "reviewId": "7f44af06-a806-4fe3-b1ae-0a74afb5ffcf",
+        "reviewerName": "Christopher Bennett",
+        "rating": 3.8,
+        "date": "2020-12-30"
+      },
+      {
+        "reviewId": "c2d62481-1f96-457b-a99b-1f03560b388c",
+        "reviewerName": "Brian Torres",
+        "rating": 8.1,
+        "date": "2023-06-14"
+      },
+      {
+        "reviewId": "1edeaabd-b588-4ffe-b1aa-fbbbce935760",
+        "reviewerName": "Deanna Gonzalez",
+        "rating": 7.5,
+        "date": "2023-10-03"
+      },
+      {
+        "reviewId": "823adc8d-4558-4ed0-99f0-47ce5ea7d31b",
+        "reviewerName": "Jason Page",
+        "rating": 2.8,
+        "date": "2021-12-17"
+      },
+      {
+        "reviewId": "5b937aed-50bf-4f5e-a37a-4ea00ec42d52",
+        "reviewerName": "Alan Clark",
+        "rating": 9.4,
+        "date": "2020-04-22"
+      },
+      {
+        "reviewId": "037c2da5-06ba-4fb4-ae2a-a97b5d6c850d",
+        "reviewerName": "Eric Calderon",
+        "rating": 1.1,
+        "date": "2023-07-01"
+      },
+      {
+        "reviewId": "c219bb63-c390-45b8-b869-4e3e39f94ec4",
+        "reviewerName": "Jennifer Watson",
+        "rating": 9.4,
+        "date": "2023-06-11"
+      },
+      {
+        "reviewId": "d088105f-2591-4ee4-a059-1a45e39539e1",
+        "reviewerName": "Matthew Fowler",
+        "rating": 7.5,
+        "date": "2023-12-13"
+      },
+      {
+        "reviewId": "1d36a700-d82d-4ca9-aa5c-216553f7c966",
+        "reviewerName": "David Brown",
+        "rating": 1.3,
+        "date": "2022-10-14"
+      },
+      {
+        "reviewId": "f81d0548-302a-43b7-9f97-7a9caa01d450",
+        "reviewerName": "Natasha Holmes",
+        "rating": 2.4,
+        "date": "2023-09-25"
+      }
+    ]
+  },
+  {
+    "bookId": "ac1ad69d-ee0b-4217-bdf6-4eafbf537ff0",
+    "title": "Balanced upward-trending model",
+    "author": "Caitlin Torres",
+    "publicationYear": 1930,
+    "genre": "Non-Fiction",
+    "rating": 5.23,
+    "reviews": [
+      {
+        "reviewId": "de02213d-6469-4c0a-9218-3ccdb6e95d87",
+        "reviewerName": "Jason Ramos",
+        "rating": 3.5,
+        "date": "2020-11-16"
+      },
+      {
+        "reviewId": "ed8fb6c2-dd16-4859-a094-6218ea62ced9",
+        "reviewerName": "Patricia Avila",
+        "rating": 5.3,
+        "date": "2022-02-23"
+      },
+      {
+        "reviewId": "d5a8f135-c374-4312-ab14-d82697d2a2b8",
+        "reviewerName": "Janet Cooper",
+        "rating": 6.9,
+        "date": "2020-03-21"
+      }
+    ]
+  },
+  {
+    "bookId": "3385efcf-2c4c-4aea-8336-4dd9519782de",
+    "title": "Multi-channeled empowering projection",
+    "author": "Thomas Fernandez",
+    "publicationYear": 2021,
+    "genre": "Science Fiction",
+    "rating": 5.55,
+    "reviews": [
+      {
+        "reviewId": "c9bb7790-6b5b-47e2-9f40-39e94e27a2eb",
+        "reviewerName": "Kathleen Hall",
+        "rating": 1.2,
+        "date": "2020-06-10"
+      },
+      {
+        "reviewId": "6d132690-5412-495a-a7d1-4d3592e39a75",
+        "reviewerName": "Shawn Hobbs",
+        "rating": 4.7,
+        "date": "2023-01-29"
+      },
+      {
+        "reviewId": "0be75285-5d0f-4ae6-b265-e56d5571af94",
+        "reviewerName": "Vanessa Hamilton",
+        "rating": 7.5,
+        "date": "2022-02-05"
+      },
+      {
+        "reviewId": "2309f1b5-1b67-45ef-92ca-b3db7e9c5ebc",
+        "reviewerName": "Katherine Gonzalez",
+        "rating": 8.8,
+        "date": "2022-12-05"
+      }
+    ]
+  }
+]

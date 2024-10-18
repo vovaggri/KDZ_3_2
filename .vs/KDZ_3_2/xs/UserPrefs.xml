@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F93244B2-7201-4AAF-B504-3944881CA192}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KDZ_3_2/Program.cs">
+    <Files>
+      <File FileName="KDZ_3_2/Program.cs" Line="6" Column="36" IsPinned="True" />
+      <File FileName="ClassLibrary/Book.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/Review.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/JsonParser.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/Methods.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/Menu.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/Sort.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/Change.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/Filtration.cs" />
+      <File FileName="ClassLibrary/Event.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary/AutoSaver.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KDZ_3_2" expanded="True">
+            <Node name="ClassLibrary" expanded="True" />
+            <Node name="KDZ_3_2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KDZ__3__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
